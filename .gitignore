@@ -1,0 +1,20 @@
+# 비밀값 — 절대 커밋 금지
+.env
+.env.*
+*.key
+*.pem
+*credential*
+*secret*
+
+# 파이썬
+__pycache__/
+*.py[cod]
+
+# 생성 산출물
+reports/*.pptx
+reports/*.spec.json
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/

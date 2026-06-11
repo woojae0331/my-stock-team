@@ -1,0 +1,19 @@
+{
+  "name": "my-stock-team",
+  "owner": {
+    "name": "my-stock-team contributors"
+  },
+  "metadata": {
+    "description": "한국 주식 협업형 리서치 팀 플러그인 카탈로그",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "my-stock-team",
+      "source": "./",
+      "description": "역할별 애널리스트 서브에이전트 5종(펀더멘털·차트·뉴스/심리·리스크·검증)과 PPTX 리포트 생성 스킬, 오케스트레이션 커맨드 묶음.",
+      "version": "1.0.0",
+      "keywords": ["stock", "research", "korea", "pptx"]
+    }
+  ]
+}

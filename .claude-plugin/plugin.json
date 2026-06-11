@@ -1,0 +1,17 @@
+{
+  "name": "my-stock-team",
+  "version": "1.0.0",
+  "description": "한국 주식(KOSPI/KOSDAQ) 협업형 리서치 팀 — 역할별 애널리스트 서브에이전트 5종과 디자인된 PPTX 리포트 생성 스킬. 가치·펀더멘털 중심 관점, 학습·참고용.",
+  "author": {
+    "name": "my-stock-team contributors"
+  },
+  "keywords": [
+    "stock",
+    "research",
+    "korea",
+    "kospi",
+    "kosdaq",
+    "pptx",
+    "fundamental"
+  ]
+}
